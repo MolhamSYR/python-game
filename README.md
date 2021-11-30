@@ -10,7 +10,7 @@ Left CTRL to Shoot Laser
 
 # Controls for Player two (Right side Player)
 
-Arrow UP To Move UP
+Arrow UP To Move UP\n
 Arrow LEFT To Move Backwards
 Arrow DOWN To Move Down
 Arrow RIGHT To Move Forward
